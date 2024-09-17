@@ -1,2 +1,2 @@
 # IC_partitioning
- Numerical code used for the inorganic carbon (IC) partitioning develope in Bertagni et al., (2024, Geophysical Research Letters)
+ Numerical code used for the fluvial inorganic carbon (IC) partitioning develop in Bertagni et al. (2024, Geophysical Research Letters)
